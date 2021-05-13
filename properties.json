@@ -1,0 +1,11 @@
+{
+    "fake_news_detection": {
+        "train_path": "dataset\\task3a\\Task3a_training.csv",
+        "test_path": "dataset\\task3a\\Task3a_testing.csv"
+    },
+
+    "article_categorization": {
+        "train_path": "dataset\\task3b\\Task3b_training.csv",
+        "test_path": "dataset\\task3b\\Task3b_testing.csv"
+    }
+}
